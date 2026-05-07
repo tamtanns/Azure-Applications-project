@@ -1,5 +1,7 @@
 # Write-up Template
 
+---
+
 ### Virtual Machine (VM)
 
 A Virtual Machine provides full control over the operating system, installed software, networking configuration, and deployment process. This option offers high flexibility and can support custom system configurations or applications with special runtime dependencies.
